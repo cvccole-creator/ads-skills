@@ -1,4 +1,4 @@
 {
   "name": "Ads Skills",
-  "install": "pip install --user -r requirements.txt"
+  "install": "cd /agent/repos/ads-skills && pip install --user -r requirements.txt"
 }
