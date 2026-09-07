@@ -1,0 +1,17 @@
+# Python dependencies for the Ads Skills API scripts.
+# Install with: pip install -r requirements.txt
+
+# HTTP client used by the LinkedIn and Meta scripts.
+requests
+
+# Loads credentials from the .env file (all platforms).
+python-dotenv
+
+# Table formatting for CLI output (LinkedIn and Google scripts).
+tabulate
+
+# Google Ads API client (Google scripts).
+google-ads
+
+# OAuth2 installed-app flow for generating a Google Ads refresh token.
+google-auth-oauthlib
