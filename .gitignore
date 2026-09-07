@@ -1,0 +1,8 @@
+# Local credentials created by /onboarding. Never commit real API tokens.
+.env
+.env.*
+!.env.example
+
+# Python bytecode
+__pycache__/
+*.py[cod]
